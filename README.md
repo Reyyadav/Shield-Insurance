@@ -28,6 +28,9 @@
 
 ### How to Use
 - Simply open the Power BI link (link is provided below) to explore the interactive dashboards. Use the filters and slicers to dive deeper into the data and uncover valuable insights.
+- PLUS Implemented toggling functionality between total customer and total revenue by incorporating clickable buttons at relevant sections.
+- Enhanced user experience by adding tooltips displaying key performance indicators when hovering over the charts.
+- Implemented page navigation feature to allow seamless transition to respective analyses for improved usability.
 
 ## Live Dashboard :- [ Link ](https://app.powerbi.com/view?r=eyJrIjoiMmI5MWQ0MTUtNzM0OC00NThiLTgyMzItYjcxYmZhNDI3YWQ3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
