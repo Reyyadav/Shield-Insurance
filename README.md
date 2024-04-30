@@ -35,6 +35,12 @@ Dashboard :-
 
 ![Home page](https://github.com/Reyyadav/Shield-Insurance/assets/153619494/7fe039c5-1978-4f82-a92c-ff2058cf34dc)
 
+![General View](https://github.com/Reyyadav/Shield-Insurance/assets/153619494/a66bdd02-ceea-4237-b18e-b4650fae5c37)
+
+![Sales Analysis](https://github.com/Reyyadav/Shield-Insurance/assets/153619494/95e307f9-1ce4-4cb8-96d0-f6ad73d043dc)
+
+![Age-Group Analysis](https://github.com/Reyyadav/Shield-Insurance/assets/153619494/124ae655-09d1-406a-8aa3-8c6913564d0a)
+
 
 #### Thank you for your interest in the Shield Insurance Dashboard project! If you have any questions or feedback, feel free to reach out. Happy analyzing! 🚀
 
