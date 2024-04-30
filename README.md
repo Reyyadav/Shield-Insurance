@@ -31,6 +31,10 @@
 
 ## Live Dashboard :- [ Link ](https://app.powerbi.com/view?r=eyJrIjoiMmI5MWQ0MTUtNzM0OC00NThiLTgyMzItYjcxYmZhNDI3YWQ3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
+Dashboard :- 
+
+![Home page](https://github.com/Reyyadav/Shield-Insurance/assets/153619494/7fe039c5-1978-4f82-a92c-ff2058cf34dc)
+
 
 #### Thank you for your interest in the Shield Insurance Dashboard project! If you have any questions or feedback, feel free to reach out. Happy analyzing! 🚀
 
