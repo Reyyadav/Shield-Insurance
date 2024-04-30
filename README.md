@@ -27,7 +27,10 @@
 
 
 ### How to Use
-- Simply download or clone the repository and open the Power BI files to explore the interactive dashboards. Use the filters and slicers to dive deeper into the data and uncover valuable insights.
+- Simply open the Power BI link (link is provided below) to explore the interactive dashboards. Use the filters and slicers to dive deeper into the data and uncover valuable insights.
+
+## Live Dashboard :- [ Link ](https://app.powerbi.com/view?r=eyJrIjoiMmI5MWQ0MTUtNzM0OC00NThiLTgyMzItYjcxYmZhNDI3YWQ3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
 
 #### Thank you for your interest in the Shield Insurance Dashboard project! If you have any questions or feedback, feel free to reach out. Happy analyzing! 🚀
 
