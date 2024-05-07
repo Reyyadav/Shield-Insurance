@@ -32,17 +32,20 @@
 - Enhanced user experience by adding tooltips displaying key performance indicators when hovering over the charts.
 - Implemented page navigation feature to allow seamless transition to respective analyses for improved usability.
 
-## Live Dashboard :- [ Link ](https://app.powerbi.com/view?r=eyJrIjoiMmI5MWQ0MTUtNzM0OC00NThiLTgyMzItYjcxYmZhNDI3YWQ3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+## Live Dashboard :- [ Link ](https://app.powerbi.com/groups/me/reports/25e7978e-24a3-4de4-9f2e-2b3d2ee66c65/ReportSectiona33df18e2a6dd2d605c1?experience=power-bi&bookmarkGuid=Bookmark091c7c92a0bc85520900)
 
 Dashboard :- 
 
 ![Home page](https://github.com/Reyyadav/Shield-Insurance/assets/153619494/7fe039c5-1978-4f82-a92c-ff2058cf34dc)
 
-![General View](https://github.com/Reyyadav/Shield-Insurance/assets/153619494/a66bdd02-ceea-4237-b18e-b4650fae5c37)
+![Genral View](https://github.com/Reyyadav/Shield-Insurance/assets/153619494/c3552593-9a77-414a-a404-722a1dc0364f)
 
-![Sales Analysis](https://github.com/Reyyadav/Shield-Insurance/assets/153619494/95e307f9-1ce4-4cb8-96d0-f6ad73d043dc)
 
-![Age-Group Analysis](https://github.com/Reyyadav/Shield-Insurance/assets/153619494/124ae655-09d1-406a-8aa3-8c6913564d0a)
+![Sales Analysis](https://github.com/Reyyadav/Shield-Insurance/assets/153619494/5b82c0f6-e771-41d2-bfc4-b3be9d74e225)
+
+
+![Age-Group Analysis](https://github.com/Reyyadav/Shield-Insurance/assets/153619494/274eaa45-3f10-436f-b100-a80b21ef10b8)
+
 
 
 #### Thank you for your interest in the Shield Insurance Dashboard project! If you have any questions or feedback, feel free to reach out. Happy analyzing! 🚀
